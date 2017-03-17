@@ -1,0 +1,15 @@
+mixin session(session)
+    div.panel.panel-primary
+        div.panel-heading
+            div.row
+                div.col-md-5 #{session.title}
+                div.col-md-3 #{session.speaker}
+                div.col-md-2
+                    span #{session.starttime}                   
+                    | &nbsp;&#8209;&nbsp;
+                    span #{session.endtime}
+                div.col-md-2
+                    span #{session.room}
+        div.panel-body
+            div.row
+                div.col-md-12 #{session.description}

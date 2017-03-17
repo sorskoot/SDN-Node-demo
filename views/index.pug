@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  div.container
+    div.content
+      div.row      
+        div.col-md-9.page-header    
+          h1 Demo Event
+            small &nbsp; Maart 2017        
+  .container-fluid  
+    .content
+      for session in data
+        +session(session)

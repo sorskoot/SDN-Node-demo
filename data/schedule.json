@@ -1,0 +1,145 @@
+[{
+		"room" : "Development",
+		"speaker" : ["Roland Guijt"],
+		"title" : "Authentication and Authorization in ASP.NET Core ",
+		"description" : "You’ve probably seen how a ASP.NET Core application works, but authentication and authorization are a different cup of tea. Microsoft completely re-did a large part of these security features in ASP.NET Core. ASP.NET Identity enables you to do authentication for a single application and has a lot of ready-to-go features, but isn't it better to do centralized authentication with a token service using OpenId Connect? We'll explore that question and I'll explain and show you both ASP.NET Core identity the IdentityServer framework that helps you write a token service. Authorization has undergone a complete overhaul in ASP.NET Core. There's still the authorize attribute, but the recommended way of using it is by utilizing policies. You'll see how that works as well. After this session you'll know what options you have for implementing authentication in ASP.NET Core. And you will have a basic understanding on how to implement these options. Also you'll know how to enforce authorization rules in your ASP.NET Core app.",
+		"starttime" : "10:00",
+		"endtime" : "11:00"
+	}, {
+		"room" : "Development",
+		"speaker" : ["Peter Toonen"],
+		"title" : "Zero-downtime applications met containers",
+		"description" : "Containers zijn hip, sommige bedrijven draaien er al mee in productie. Maar waarom is deze techniek nou juist zo fijn om mee te werken? In deze sessie neem ik je mee aan de hand van een real-life applicatie die we live gaan patchen zonder dat er downtime optreedt. Hiervoor gebruiken we onder andere een .NET Core applicatie en VSTS release management. Wil jij ook kunnen patchen zonder je klanten er iets van te laten merken, kom dan zeker naar deze sessie.",
+		"starttime" : "11:15",
+		"endtime" : "12:15"
+	}, {
+		"room" : "",
+		"speaker" : [],
+		"title" : "Lunch",
+		"description" : "",
+		"starttime" : "12:15",
+		"endtime" : "13:00",
+		"special" : true
+	}, {
+		"room" : "Development",
+		"speaker" : ["Erik Appeldoorn"],
+		"title" : "Grand Prix Radio - Creating a cross-platform app",
+		"description" : "Grand Prix Radio is One of the biggest internet-only radio channel in the Netherlands. 24/7 Danceable Hits & Classics and the latest autosport news. Started as a pet project I created a Windows 10 UWP and Xamarin Forms Android/iOS app for the channel. In this session I would like to share all the fun, the horror and all lessons learned from this side project with you. No slides, just code and good stories.",
+		"starttime" : "13:00",
+		"endtime" : "14:00"
+	}, {
+		"room" : "Development",
+		"speaker" : ["Gerald Versluis"],
+		"title" : "Building 5 star review apps with Xamarin Test Cloud",
+		"description" : "Gebruikers zijn nog nooit zo kritisch geweest op onze software als met apps. Teveel bugs, lelijke UI?Het regent 1 ster reviews en hets moeilijk om daar weer van terug te komen. Tijdens deze sessie laat ik je kennismaken met Xamarin Test Cloud, geautomatiseerd testen op fysieke devices. Op deze manier krijg je grip op de kwaliteit en breng je met een gerust hart een app naar de store. Xamarin Test Cloud is niet alleen, zoals de naam doet vermoeden, voor Xamarin apps! Alle app bouwers zijn dus welkom!",
+		"starttime" : "14:15",
+		"endtime" : "15:15"
+	}, {
+		"room" : "Development",
+		"speaker" : ["Timmy Kokke"],
+		"title" : "LiveCoding: node.js ",
+		"description" : "Waar begin je als je applicatie wilt gaan maken met node.js? node.js is een krachtige JavaScript runtime, waar veel mee mogelijk is. Tijdens deze sessie neem ik je mee vanaf het begin van een nieuwe node.js applicatie. We kijken naar het bootstappen van je app, het gebruik van een templating engine en hoe je data kunt gebruiken. En geen slides, enkel code.",
+		"starttime" : "15:30",
+		"endtime" : "16:30"
+	}
+
+	, {
+		"room" : "Enterprise",
+		"speaker" : ["Jurgen van den Broek"],
+		"title" : "Customer Identities in an Enterprise scenario",
+		"description" : "IDaaS oplossingen worden door steeds meer bedrijven geadopteerd als de oplossing voor Enterprise scenario’s. Maar hoe kun je dit soort type diensten gebruiken voor B2C gerelateerde scenario’s? In deze sessie gaat Jurgen in op de verschillende services die Azure AD B2C biedt. Met behulp van verschillende demo’s laat hij zien hoe je de functionaliteiten optimaal kan gebruiken. Denk hierbij aan Social Login, Registratie, Self-Service en Custom Branding.",
+		"starttime" : "10:00",
+		"endtime" : "11:00"
+	}, {
+		"room" : "Enterprise",
+		"speaker" : ["Kim van Wilgen"],
+		"title" : "The continuous culture",
+		"description" : "Are you looking for ways to speed up? More rapidly then ever, companies are adopting technologies, tooling and practices that allow them to be so agile that it changes their culture overnight. Disruptors being disrupted within the year. Fast movers are faced with instant response of competitors. Longterm strategies, roadmaps and plans appear useless and are slowing you down. It’s time to get ready for the survival of the fittest: “It is not the strongest of the species that survives, nor the most intelligent. It is the one that is most adaptable to change”. Kim van Wilgen, head of IT at the Dutch insurance softwarecompany ANVA, shows you how moving to continuous delivery will change the DNA of your company. Learn how continuous delivery will speed up your company. How your thinking will change through the presence of fast feedback, short cycles and data-driven decision making. It’s time to move to the continuous culture.",
+		"starttime" : "11:15",
+		"endtime" : "12:15"
+	}, {
+		"room" : "Enterprise",
+		"speaker" : ["Danny van der Kraan "],
+		"title" : "Serverless Architecture met Azure",
+		"description" : "Wat is een serverless architecture en waarom is het zo'n mooie combinatie met Microservices. Even terug, wat zijn Microservices en waarom zou Azure geschikt zijn? Krijg een indruk van Azure Functions, Azure Storage, Azure Service Bus en WebJobs SDK. Aan het einde wordt er een proof of concept behandeld vanuit de praktijk en wellicht wordt er inspiratie opgedaan voor toepassingen in het eigen werkgebied.",
+		"starttime" : "13:00",
+		"endtime" : "14:00"
+	}, {
+		"room" : "Enterprise",
+		"speaker" : ["Clemens Reijnen"],
+		"title" : "Pipelines",
+		"description" : "Tijdens deze sessie bespreekt Clemens de principes van Release Pipelines en hoe deze ingezet worden binnen projecten voor verschillende applicaties. Middels vele voorbeelden worden tijdens deze sessie applicaties gedeployed naar Azure, Amazone Docker, Ios, Android middels VSTS.",
+		"starttime" : "14:15",
+		"endtime" : "15:15"
+	}, {
+		"room" : "Enterprise",
+		"speaker" : ["Steef Jan Wiggers"],
+		"title" : "Serverless integratie met Azure Logic Apps en Functions ",
+		"description" : "Integratie van systemen anno 2017 is niet meer zoals we gewend zijn. Met de opkomst van Azure verplaatst het speelveld voor integratie zich naar de Cloud. Lokaal heb je geen server meer nodig om je integratie oplossing te bouwen laat staan dat er hoef te ontwikkelen met Visual Studio, alles kan je in Azure en met een browser. In deze sessie zal de spreker ingaan op het bouwen van integratie oplossingen in Azure en zal hij praktijkvoorbeelden en een klant case tonen.",
+		"starttime" : "15:30",
+		"endtime" : "16:30"
+	}, {
+		"room" : "Generic",
+		"speaker" : ["Dick Moffat"],
+		"title" : "Introducing Microsoft’s Power BI",
+		"description" : "An overview of Power BI and Power BI Desktop. The reasons for it and the differences between the two products",
+		"starttime" : "10:00",
+		"endtime" : "11:00"
+	}, {
+		"room" : "Generic",
+		"speaker" : ["Dick Moffat "],
+		"title" : "Report Data Management In Excel ",
+		"description" : "This session will be focused on explaining the Data-specific features added to Excel in the last few years that are widely misunderstood or not known at all. This session will detail techniques for sourcing data in to Excel for use in reports (specifically in Power BI).",
+		"starttime" : "11:15",
+		"endtime" : "12:15"
+	}, {
+		"room" : "Generic",
+		"speaker" : ["David Hoppe"],
+		"title" : "Custom charting in Excel",
+		"description" : "create dynamic data visualizations in Excel without VBA",
+		"starttime" : "13:00",
+		"endtime" : "14:00"
+	}, {
+		"room" : "Generic",
+		"speaker" : ["Dick Moffat"],
+		"title" : "Producing Power BI “Content” Using Excel",
+		"description" : "An hour detailing best practices that I have developed for using Excel for staging data for Power BI Desktop and Power BI. I will discuss the practical advantages of Excel over most other options. I will demonstrate how easy it can be to create solutions in Excel for Power BI by doing a “live” creation of a Power BI Desktop solution fro scratch with previously unseen data.",
+		"starttime" : "14:15",
+		"endtime" : "15:15"
+	}, {
+		"room" : "Delphi",
+		"speaker" : ["Marco Cantù"],
+		"title" : "Delphi Today and Tomorrow",
+		"description" : "In this session, Delphi Product manager Marco Cantu will make an assessment of where Delphi is today, its recent evolution, and the plans for the near future. The session will highlight the core features of the product, along with their directions.",
+		"starttime" : "10:00",
+		"endtime" : "11:00"
+	}, {
+		"room" : "Delphi",
+		"speaker" : ["Andrea Magni"],
+		"title" : "MARS-Curiosity: a REST library for Embarcadero Delphi",
+		"description" : "MARS-Curiosity is an open source library to build REST application servers and clients in Delphi. It provides developers a clean, easy way to build a standard REST API (to be consumed by any Delphi or non Delphi technology out there, web technologies included) with the addition of some very Delphi-oriented features like design time support and FireDAC integration to take advantage when building Delphi clients for Delphi servers (mobile or desktop).This session will provide an overview of the library and will show some practical demos.",
+		"starttime" : "11:15",
+		"endtime" : "12:15"
+	}, {
+		"room" : "Delphi",
+		"speaker" : ["Marco Cantù"],
+		"title" : "Windows 10 from WinRT to Centennial",
+		"description" : "In this session Marco will explore the main features in Delphi's RTL, VCL and IDE specifically related with Windows 10. We'll explore new VCL controls for Windows 10 UI, the low level support for WinRT, and the ability to distribute applications as .appx packages using the Windows Desktop Bridge (aka Centennial) on the Windows 10 Store.",
+		"starttime" : "13:00",
+		"endtime" : "14:00"
+	}, {
+		"room" : "Delphi",
+		"speaker" : ["Andrea Magni"],
+		"title" : "TFrameStand: build stunning UI with TFrames",
+		"description" : "Especially on mobile, visual continuity and beautiful transitions are a must for each developer!Learn how to use TFrameStand to easily split your app in several frames and have a chance to orchestrate transitions and effects with no effort.This technology (open-source and available through GetIt) has proven its effectiveness in real use applications and it strongly simplifies mobile development with Delphi.This session will provide an overview of the library and will show some practical demos.",
+		"starttime" : "14:15",
+		"endtime" : "15:15"
+	}, {
+		"room" : "Delphi",
+		"speaker" : ["Marco Cantù"],
+		"title" : "Publishing Delphi Mobile Apps in Stores",
+		"description" : "This session focused on practical tips taken from the direct experience Marco did publishing a mobile (FireMonkey) application in the Google Play Store and Apple AppStore for Android and iOS. From versioning to delivery tips, from issues with local files to advertising ideas, the session is all focused on direct experience -- for the good and the bad. ",
+		"starttime" : "15:30",
+		"endtime" : "16:30"
+	}
+]
